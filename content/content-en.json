@@ -1,0 +1,49 @@
+{
+  "lang": "en",
+  "direction": "ltr",
+  "tagline": "Software developer who values clarity and simplicity",
+  "name": "Hazim Eid",
+  "title": "Java Software Developer",
+  "intro": "I focus on writing clean, maintainable code and building simple solutions for real problems. I enjoy working in a team and collaborating to deliver practical products that serve users.",
+  "primaryCta": "View my experience",
+  "secondaryCta": "See projects",
+  "about": {
+    "heading": "About me",
+    "body": "I develop systems using Java and Java EE, and build simple, easy-to-use web interfaces. I care about code quality, testing, documentation, and integrating systems using REST APIs and system integration patterns."
+  },
+  "skills": {
+    "heading": "Technical skills",
+    "items": [
+      "Java, Java EE (JSF, Servlets, EJB, CDI)",
+      "RESTful APIs and system integration",
+      "Databases: MySQL, PostgreSQL",
+      "Maven for dependency management",
+      "Git & GitHub, teamwork",
+      "Designing and building complaint and e-participation systems"
+    ]
+  },
+  "projects": {
+    "heading": "Selected projects",
+    "items": [
+      {
+        "title": "Complaints and Follow-up System",
+        "description": "A system to collect complaints from different channels into one platform and track them electronically, integrated with the national complaints system.",
+        "tech": "Java EE, JSF, EJB, REST, PostgreSQL, Maven, Git"
+      },
+      {
+        "title": "e-Participation Platform",
+        "description": "A platform for public and legislative consultations, managing the full lifecycle of consultations and integrating with government entities.",
+        "tech": "Java EE, JSF, Hibernate, REST, PostgreSQL, Portal"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact",
+    "items": [
+      "GitHub: github.com/HazimEid",
+      "LinkedIn: Add your profile link here",
+      "Email: Add your email here"
+    ]
+  },
+  "footer": "© 2025 Hazim Eid. All rights reserved."
+}
